@@ -1,0 +1,1 @@
+I want to make a gordon ramsy bot taking lines directly from his shows
